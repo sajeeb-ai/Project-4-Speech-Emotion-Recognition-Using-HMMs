@@ -1,1 +1,3 @@
 # Project-4-Speech-Emotion-Recognition-Using-HMMs
+
+This research used Ryerson University’s Audio Visual Database of Emotional Speech and Song (RAVDESS) audio recordings to analyze speech-based emotion recognition algorithms. Features including the Log-Mel Spectrogram, Mel Frequency Cepstral Coefficients (MFCCs), pitch, and energy were taken into account after the raw audio files had been pre-processed. Hidden Markov Models (HMMs) were employed to assess the importance of these features for the classification of emotions. Additionally, we note that the choice of audio features has a much greater influence on the outcomes than model complexity does on emotion recognition.
